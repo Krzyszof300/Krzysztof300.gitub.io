@@ -1,1 +1,1 @@
-# Krzysztof300.gitub.io Kokosek
+# Krzysztof300.gitub.io Kokosek Istvan Becia
