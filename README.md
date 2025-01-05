@@ -1,2 +1,2 @@
-# Krzysztof300.gitub.io Kokosek Istvan Becia
-theme: jekyll-theme-minimal
+# The Best Example Ever
+Which will be a part of the best commit ever.
