@@ -36,6 +36,7 @@
         data.foreach(product =>(
             rows += '<tr><td>$(product.id)</td><td>$(product.title)</td><td>$(product.description)</td><td>$(product.price)</td><td>$(product.discountpercentage)</td><td>$(product.rating)</td><td>$(product.stock)</td><td>$(product.brand)</td><td>$(product.category)</td><td>$(product.thumbnail)</td></tr>'
         ))
+        document.getElementById('tableRows').innerHTML = rows;
     ))
     .catch(res => console.log(error))
 </script>
